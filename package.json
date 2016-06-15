@@ -1,0 +1,17 @@
+{
+  "name": "is-image-light",
+  "author": "killerangel13",
+  "license": "MIT",
+  "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/killerangel13/is-image-light/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/killerangel13/is-image-light.git"
+  },
+  "devDependencies": {},
+  "main": "is-image-light.js",
+  "dependencies": {},
+  "readmeFilename": "README.md"
+}
