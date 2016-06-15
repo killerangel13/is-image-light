@@ -1,10 +1,10 @@
-## USAGE
+## Usage
 
 ```js
 
    var img = document.createElement("img");
    
-   img.src = "image.jpg";
+   img.src = "5.jpg" ; // will run on load
 
    is_image_light({
 
