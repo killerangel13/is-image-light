@@ -1,4 +1,4 @@
-Whether images are light or dark (for text)
+Whether images are light or dark (for text) 
 
 ## Usage
 
