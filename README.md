@@ -1,3 +1,5 @@
+Whether images are light or dark (for text).
+
 ## Usage
 
 ```js
