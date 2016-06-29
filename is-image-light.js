@@ -17,7 +17,8 @@
 
         var img = o.img,
 
-        o = ext({
+        o = defaults({
+            
             // between 0 & 1
             downsample: 0.1,
             threshold: 0.555,
@@ -97,7 +98,7 @@
             h: box.bottom - scaled.bottom - scaled.top
         };
     }
-    function ext(sub, sup) {
+    function defaults(sub, sup) {
         
         for(let k in sup)
             sub[k] = sup[k];
